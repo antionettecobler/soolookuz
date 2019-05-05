@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://vohyeikohc.gb-prod.fr/sitemap.xml
